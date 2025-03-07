@@ -1,6 +1,6 @@
 # cnn classifier project
 
-# deep Classifier project
+# deep Classifier project 
 
 ## workflow
  
